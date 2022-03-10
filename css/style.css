@@ -1,0 +1,31 @@
+header {
+  height: 600px;
+  background-image: url("../img/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  font-family: Cambria, "Times New Roman";
+  font-size: 5em;
+  letter-spacing: 2px;
+  padding: 10px 20px;
+  color: rgb(18, 112, 132);
+  background-color: rgba(255, 255, 255, 0.35);
+}
+h2,
+h3,
+h4 {
+  font-variant: small-caps;
+}
+nav {
+  background-color: rgb(18, 112, 132);
+}
+ul.build {
+  list-style-image: url("../img/icon.png");
+}
+.build li {
+  line-height: 25px;
+}
+.parts {
+  box-shadow: 2px 2px 5px;
+}
